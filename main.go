@@ -6,7 +6,7 @@
 package main
 
 import (
-//	"errors"
+	_ "errors"
 	"fmt"
 )
 
